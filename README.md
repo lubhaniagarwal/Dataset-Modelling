@@ -1,6 +1,8 @@
 # Dataset-Modelling
 This project is about extracting the tweets regarding amazon delivery and locker with help of twitterscraper and cleaning and pre processing .
 
+About 14500 tweets are extracted for each amazon delivery and amazon locker .
+
 # data -cleaning / preprocessing 
 Data is cleaned and preprocessed by removing all hashtags, url , https requests and tags such as @ by using regex 
 
